@@ -1,3 +1,6 @@
+'''Fizzbuzz coding challenge
+written by Nate Ferrero - 11/20/2023'''
+
 def fizzbuzz(num):
     """tests to see if number is divisible by 3, 5, or both"""
     for x in range(1, num+1):
