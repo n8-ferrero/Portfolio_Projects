@@ -1,3 +1,6 @@
+'''Simple Dice game that tracks high score
+written by Nate Ferrero - 11/14/23'''
+
 import random    
 import os   
 
