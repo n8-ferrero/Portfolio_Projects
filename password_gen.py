@@ -1,5 +1,6 @@
 """
-Strong password generation utility
+Password generation utility
+written by Nathanael Ferrero 1/12/2024
 """
 import string
 from random import choice, randint
