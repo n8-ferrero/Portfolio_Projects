@@ -1,3 +1,7 @@
+
+'''Tip calculator to split bill
+written by Nate Ferrero - 1/12/2024'''
+
 print("Welcome to the tip calculator\n")
 
 # Input validation function
