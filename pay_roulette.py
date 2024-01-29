@@ -1,3 +1,7 @@
+'''code to figure out who will buy lunch today
+written by Nathanael Ferrero
+1/15/2024'''
+
 import random
 
 names_string = "Angela, Stanley, Michael, Pam, Kevin, Oscar, Creed, Andy, Jim, Phylis, Dwight, Toby, Ryan, Kelly, Karen, Gabe"
